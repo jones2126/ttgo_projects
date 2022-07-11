@@ -3,6 +3,10 @@
 		{
 			"name": "ttgo_mode_switch_test",
 			"path": "ttgo_mode_switch_test"
+		},
+		{
+			"name": "ttgo_mode_oled",
+			"path": "ttgo_mode_oled"
 		}
 	]
 }
