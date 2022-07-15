@@ -7,6 +7,22 @@
 		{
 			"name": "ttgo_mode_oled",
 			"path": "ttgo_mode_oled"
+		},
+		{
+			"name": "master_slave_hello_world",
+			"path": "master_slave_hello_world"
+		},
+		{
+			"name": "master_slave_intermediate",
+			"path": "master_slave_intermediate"
+		},
+		{
+			"name": "master_tractor_simple",
+			"path": "master_slave_hello_world\\master_tractor_simple"
+		},
+		{
+			"name": "slave_remote control_simple",
+			"path": "master_slave_hello_world\\slave_remote control_simple"
 		}
 	]
 }
