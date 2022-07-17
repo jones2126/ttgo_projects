@@ -12,5 +12,5 @@ Both of these programs use the LILYGO® TTGO LORA32 V1.0 board.  LoRa frequency 
 
 ![Board pinout](images/pinout.jpg?raw=true "LILYGO® TTGO v1.0 Pinout")
 
-There is a video in the video folder - below is a test; Need to get the url. test
-[![RF95 Hello World video](https://1drv.ms/u/s!AlSRhxzgYnAlhs9pbAFNd58dvEz2rA?e=m0EOTI)](https://1drv.ms/v/s!AlSRhxzgYnAlhs8tca6QZTKh54bs4A)
+Video showing 2 TTGO boards communicating using the RadioHead RF95 library: 
+[![RF95 Hello World video]("./images/video_RF95.png")](https://1drv.ms/v/s!AlSRhxzgYnAlhs8tca6QZTKh54bs4A)
