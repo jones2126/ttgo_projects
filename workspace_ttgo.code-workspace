@@ -23,6 +23,14 @@
 		{
 			"name": "slave_remote control_simple",
 			"path": "master_slave_hello_world\\slave_remote control_simple"
+		},
+		{
+			"name": "RF95_slave_hello_world",
+			"path": "master_slave_hello_world\\RF95_slave_hello_world"
+		},
+		{
+			"name": "RF95_master_hello_world",
+			"path": "master_slave_hello_world\\RF95_master_hello_world"
 		}
 	]
 }
