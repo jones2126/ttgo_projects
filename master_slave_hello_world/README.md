@@ -12,3 +12,9 @@ Both of these programs use the LILYGO® TTGO LORA32 V1.0 board.  LoRa frequency 
 
 Video showing 2 TTGO boards communicating using the RadioHead RF95 library: 
 [![RF95 Hello World video]("./images/video_RF95.png")](https://1drv.ms/v/s!AlSRhxzgYnAlhs8tca6QZTKh54bs4A)
+
+Another examples to look at: 
+1. https://github.com/DSG-UPC/Arduino-LoRa-Mesh/blob/9b9a137b09b4473658e9da386c056b7d22669580/LoRaCHAN_sender/LoRaCHAN_sender.ino
+2. https://github.com/DSG-UPC/Arduino-LoRa-Mesh/tree/9b9a137b09b4473658e9da386c056b7d22669580
+
+
