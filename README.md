@@ -10,3 +10,10 @@ Board description: LILYGO® TTGO 2Pcs LORA32 V1.0 868/915MHz ESP32 LoRa OLED 0.9
 
 ![Board pinout](images/pinout.jpg?raw=true "LILYGO® TTGO v1.0 Pinout")
 
+### other programs to check out
+a. [TTGO OLED DEMO](https://github.com/ThingPulse/esp8266-oled-ssd1306/blob/master/examples/SSD1306SimpleDemo/SSD1306SimpleDemo.ino)
+
+b. [Clock Example](https://github.com/ThingPulse/esp8266-oled-ssd1306/blob/master/examples/SSD1306ClockDemo/SSD1306ClockDemo.ino)
+
+### 3D Print Holders
+a. https://www.thingiverse.com/thing:3443245/files
