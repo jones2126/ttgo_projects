@@ -1,5 +1,5 @@
 /*
-   RadioLib SX127x Transmit Example
+   RadioLib SX127x, (specifically SX1276) Transmit Example Using a LoRa OLED TTGO V1 board
 
    This example transmits packets using SX1278 LoRa radio module.
    Each packet contains up to 256 bytes of data, in the form of:
