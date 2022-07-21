@@ -1,5 +1,5 @@
 /*
-   RadioLib SX127x Receive Example
+   RadioLib SX127x, (specifically SX1276) Receive Example LoRa OLED TTGO V1 board
 
    This example listens for LoRa transmissions using SX127x Lora modules.
    To successfully receive data, the following settings have to be the same

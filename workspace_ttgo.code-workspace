@@ -39,6 +39,14 @@
 		{
 			"name": "RadioLib_slave_hello_world",
 			"path": "master_slave_hello_world\\RadioLib_slave_hello_world"
+		},
+		{
+			"name": "RadioLib_LoRaCAD_receiver",
+			"path": "master_slave_hello_world\\RadioLib_LoRaCAD_receiver"
+		},
+		{
+			"name": "RadioLib_LoRaCAD_sender",
+			"path": "master_slave_hello_world\\RadioLib_LoRaCAD_sender"
 		}
 	]
 }
